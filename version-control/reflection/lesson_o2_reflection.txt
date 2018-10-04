@@ -3,3 +3,6 @@ What is the benefit of the staging area?
 
 How can you use the staging area to make sure you have one commit per logical change?
 The changes that could be made, do not have to be commited necessarily. They can be transformed in the staging area and when they reach to a reasonable step, the commit could be made. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you get to a decision to make different versions for a program in a certain stage the branches can be created. If you checkout for a previous commit, and want to make some changes, the branch can be made in order not to loose the changes of the previous branch.

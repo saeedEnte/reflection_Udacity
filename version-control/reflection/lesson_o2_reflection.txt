@@ -1,1 +1,5 @@
 What is the benefit of the staging area?
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+The changes that could be made, do not have to be commited necessarily. They can be transformed in the staging area and when they reach to a reasonable step, the commit could be made. 

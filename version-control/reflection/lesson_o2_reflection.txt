@@ -6,3 +6,6 @@ The changes that could be made, do not have to be commited necessarily. They can
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When you get to a decision to make different versions for a program in a certain stage the branches can be created. If you checkout for a previous commit, and want to make some changes, the branch can be made in order not to loose the changes of the previous branch.
+
+How do the diagrams help you visualize the branch structure?
+The diagram can show the deviation of the different branches and the sequence of the commits in each branch. 

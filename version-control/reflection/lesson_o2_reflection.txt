@@ -9,3 +9,7 @@ When you get to a decision to make different versions for a program in a certain
 
 How do the diagrams help you visualize the branch structure?
 The diagram can show the deviation of the different branches and the sequence of the commits in each branch. 
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The deviated branch will be merged into the master and gives a single branch. The way that we represent in the diagram allows us to understand the fact that the commits in the branch that has been merged is still kept.

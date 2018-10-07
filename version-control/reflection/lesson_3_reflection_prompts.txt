@@ -1,6 +1,8 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
+At the time I wanna have a cooperation within a group or want to save a backup file
+
     Fill in your answer here
 
 Why might you want to always pull changes manually rather than having Git

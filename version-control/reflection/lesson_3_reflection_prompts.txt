@@ -3,12 +3,10 @@ local?
 
 At the time I wanna have a cooperation within a group or want to save a backup file
 
-    Fill in your answer here
-
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Because we want to get up to date at the point that we want. Maybe sometimes we are working on a file and do not want the file to get any changes from the other group mates.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
